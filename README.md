@@ -49,3 +49,9 @@ Retrieves sensor data from Home Assistant entities:
 ## Configuration
 
 The device integrates seamlessly with Home Assistant and requires minimal configuration. All sensitive credentials are stored in a separate secrets file for security.
+
+## Feel free to checkout my other little projects:
+
+- https://github.com/TilmanGriesel/ha_trmnl_weather_station - TRMNL E-Ink Home Assistant Weather Station
+- https://github.com/TilmanGriesel/graphite - A Calm and Clean Theme for Home Assistant
+- https://github.com/TilmanGriesel/chipper - Small AI interface for tinkerers (Ollama, RAG, Python)
